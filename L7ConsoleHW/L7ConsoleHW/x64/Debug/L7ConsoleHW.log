@@ -1,0 +1,5 @@
+﻿  L7ConsoleHW.cpp
+C:\Users\user\Desktop\STEP\cpp\L7ConsoleHW\L7ConsoleHW.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\Desktop\STEP\cpp\L7ConsoleHW\L7ConsoleHW.cpp(80,15): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\user\Desktop\STEP\cpp\L7ConsoleHW\L7ConsoleHW.cpp(81,15): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  L7ConsoleHW.vcxproj -> C:\Users\user\Desktop\STEP\cpp\L7ConsoleHW\x64\Debug\L7ConsoleHW.exe
